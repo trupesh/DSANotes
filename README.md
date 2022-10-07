@@ -12,3 +12,5 @@ Learn data structures topics from my handwritten pdf.
 3. Stack in Data Structures - https://bit.ly/3S7cbJY
 
 4. Queue in Data Structures - https://bit.ly/3S3DF2Q
+
+4. LinkedList in Data Structures - https://bit.ly/3SBX4c1
