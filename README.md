@@ -13,4 +13,6 @@ Learn data structures topics from my handwritten pdf.
 
 4. Queue in Data Structures - https://bit.ly/3S3DF2Q
 
-4. LinkedList in Data Structures - https://bit.ly/3SBX4c1
+5. LinkedList in Data Structures - https://bit.ly/3SBX4c1
+
+6. Sorting & Searching in Data Structures - https://bit.ly/3CTU7OD
